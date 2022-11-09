@@ -1,0 +1,16 @@
+*{
+   color:whitesmoke;
+}
+h1{
+   font-size: 45px;
+}
+h3{
+    font-size:30px;
+}
+body{
+    background-color: slategrey;
+}
+img{
+    float: left;
+    padding-right: -30cm;
+}
